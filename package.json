@@ -8,19 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scttzth/node-js-game-app-unit-tests.git"
+    "url": "git+https://github.com/Mubashir-M/my-node-tests-sample.git"
   },
   "keywords": [
     "node",
-    "aws",
-    "codebuild"
+    "unit-tests",
+    "docker",
+    "aws-sample"
   ],
-  "author": "Thomas Scott (AWS)",
+  "author": "Mubashir Mohamud",
   "license": "MIT-0",
   "bugs": {
-    "url": "https://github.com/scttzth/node-js-game-app-unit-tests/issues"
+    "url": "https://github.com/Mubashir-M/my-node-tests-sample.git/issues"
   },
-  "homepage": "https://github.com/scttzth/node-js-game-app-unit-tests#readme",
+  "homepage": "https://github.com/Mubashir-M/my-node-tests-sample#readme",
   "dependencies": {
     "chai": "4.3.4",
     "mocha": "8.4.0",
