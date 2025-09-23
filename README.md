@@ -18,7 +18,7 @@ This project demonstrates a complete Continuous Integration (CI) pipeline using 
 
 ## Pipeline Flow
 
-"Blue ocean staged view screenshot"
+![image alt](https://github.com/Mubashir-M/my-node-tests-sample/blob/86275677c1a2f305ae61603b168eb5799289caa6/Screenshot%202025-09-23%20at%2016.52.59.png)
 
 ### Step-by-Step Description:
 
